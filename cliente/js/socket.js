@@ -1,6 +1,6 @@
 import { io } from "https://cdn.socket.io/4.7.5/socket.io.esm.min.js"
 const url = 'http://localhost:3000'
-const url2 = 'https://chat-fronted-topicos.onrender.com'
+const url2 = 'https://chat-topicos.onrender.com'
 
 const users=["Irbin", "Genaro", "Paco", "Angel", "Emiliano", "Lalo", "Francisco", "Luis", "Jorge", "Ricardo", "Raul", "Eduardo", "Carlos", "Juan", "Pedro", "Jose", "Manuel", "Miguel", "Antonio", "Jesus", "Alejandro", "David", "Daniel", "Jose Luis", "Javier", "Fernando", "Alberto", "Ramon", "Roberto", "Arturo", "Victor", "Oscar", "Rafael", "Sergio", "Mauricio", "Hector", "Guillermo", "Adrian", "Martin", "Salvador", "Rodrigo", "Ruben", "Mario", "Francisco Javier", "Erick", "Hugo", "Enrique", "Armando", "Gustavo", "Pablo", "Alejandro", "Luis", "Jorge", "Ricardo", "Raul", "Eduardo", "Carlos", "Juan", "Pedro", "Jose", "Manuel", "Miguel", "Antonio", "Jesus", "Alejandro", "David", "Daniel", "Jose Luis", "Javier", "Fernando", "Alberto", "Ramon", "Roberto", "Arturo", "Victor", "Oscar", "Rafael", "Sergio", "Mauricio", "Hector", "Guillermo", "Adrian", "Martin", "Salvador", "Rodrigo", "Ruben", "Mario", "Francisco Javier", "Erick", "Hugo", "Enrique", "Armando", "Gustavo", "Pablo"]
 
